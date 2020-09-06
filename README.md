@@ -13,7 +13,6 @@ A test project that gathers temperature data and displays it on OLED
 
 Shows pressure, tempurature, and humidity on the OLED screen
 
-### Images
-1. Finished example
+![Image of Project](https://github.com/martyweb/tempToOLED128x64/blob/master/IMG_2778.JPG)
 
 
